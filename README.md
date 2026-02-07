@@ -2,8 +2,6 @@
 
 Welcome to **CrestaView**, a real estate application built with the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to browse, list, and manage properties efficiently with a seamless user experience.
 
-Check it out here: https://mern-estate-to9o.onrender.com/
-
 ## Table of Contents
 
 -   [Features](#features)
@@ -74,6 +72,3 @@ Make sure you have the following installed on your machine:
 
 3. Open your browser and navigate to `http://localhost:5173`.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards.
