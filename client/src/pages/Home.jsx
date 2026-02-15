@@ -66,7 +66,7 @@ export default function Home() {
                 </h1>
 
                 <div className="text-slate-700 text-sm md:text-lg">
-                    Discover your dream home effortlessly with CrestView's
+                    Discover your dream home effortlessly with NextHome's
                     tailored real estate solutions.
                     <br />
                     Elevate your home search with our personalized real estate
